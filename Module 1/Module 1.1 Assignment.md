@@ -13,7 +13,7 @@ Once you click on that tab you will see all the current issues in this repositor
 Once you have created a new issue, you will be greeted by the screen below. Here you will provide
 * A title for your issue (Every title should be the name of the assignment, so in this case it is "Module 1.1 Assignment")
 * A body for your issue to write a response or upload a screenshot
-* A submission button
+* A submission buttonn
 
 ![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_three.png)
 
